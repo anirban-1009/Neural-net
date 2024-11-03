@@ -23,3 +23,9 @@ Installing Jupyter Notebook
 ```bash
 pip install jupyterlab
 ```
+
+Installing dependencies
+
+```bash
+pip install matplotlib numpy graphviz
+```
